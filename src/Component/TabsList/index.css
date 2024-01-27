@@ -1,0 +1,13 @@
+.btn {
+  background-color: transparent;
+  border: none;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 10px 1px;
+}
+
+.selected {
+  color: #fec653;
+  border-bottom: 5px solid #fec653;
+}
